@@ -7,7 +7,9 @@ Name Inspired by
 ## Overview
 
 Each recipe can be described in a python file
-which is a set of tasks ran. Each of these tasks are going to have tests and commit recipes (configs) as code. 
+which is a set of tasks ran. 
+Each of these recipes will be small, self contained, are going to have configs as code. 
+When things are big enough to warrent splitting off, a module will be written. 
 
 ### Modules 
 
