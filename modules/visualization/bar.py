@@ -56,7 +56,7 @@ if __name__ == '__main__':
 	}
 
 	config = {
-		"color":["#008080", "teal", (0.2, 0.3, 0.4)]
+		"color":["#008080", "teal", (0.2, 0.3, 0.4)],
 		"y_label": "y-bar", #label for y axis
 		"x_label": "x-bar", #label for x axis
 		"title": "Bar Example"
