@@ -1,8 +1,8 @@
-# ADA Recipes
+# Ada Recipes
 
 Data Science Recipes With Functional Examples.
 Name Inspired by 
-Ada lovelace 
+<a href="https://www.biography.com/scholar/ada-lovelace">Ada lovelace</a> 
 
 ## Overview
 
