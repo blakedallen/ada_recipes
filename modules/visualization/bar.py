@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 
 
-def SimpleBar(data, config={}, filepath=None, fileconfig={}, show=False):
+def simple_bar(data, config={}, filepath=None, fileconfig={}, show=False):
 	"""
 	Simple Bar, 
 	creates a simple bar plot
@@ -61,4 +61,4 @@ if __name__ == '__main__':
 		"x_label": "x-bar", #label for x axis
 		"title": "Bar Example"
 	}
-	SimpleBar(data, config, filepath="tmp/bar.png", show=True)
+	simple_bar(data, config, filepath="tmp/bar.png", show=True)
