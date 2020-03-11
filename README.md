@@ -4,6 +4,8 @@ Data Science Recipes With Functional Examples.
 Name Inspired by 
 <a href="https://www.biography.com/scholar/ada-lovelace">Ada lovelace</a> 
 
+![adadream](assets/cover.jpg)
+
 ## Overview
 
 Each recipe can be described in a python file
