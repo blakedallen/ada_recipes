@@ -19,3 +19,10 @@ Where code lives, each recipe is a standalone program with mocked data for an ex
 
 Modules are reusable classes and functions for common tasks. 
 
+
+## Todo:
+
+Check out these 10 data science visualizations
+work through each one and create visualizations from there
+
+https://towardsdatascience.com/10-viz-every-ds-should-know-4e4118f26fc3
