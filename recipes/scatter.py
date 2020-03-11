@@ -11,7 +11,6 @@ def main(d, path=None, show=True):
     """
     
     p = plt.scatter(d["x"],d["y"])
-    plt.xticks(d["x"], d["x_titles"])
     plt.xlabel(d["x_label"])
     plt.ylabel(d["y_label"])
     plt.title(d["title"])
