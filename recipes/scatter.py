@@ -1,5 +1,8 @@
+import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib
+
+sns.set()
 
 def main(d, path=None, show=True):
     """ create a scatterplot 
